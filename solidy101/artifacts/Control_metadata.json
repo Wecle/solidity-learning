@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "a",
+						"type": "uint256[]"
+					}
+				],
+				"name": "insertionSort",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidy101/control.sol": "Control"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidy101/control.sol": {
+			"keccak256": "0xf42fbb2601b16cb7ca0a2027226227b00988f13726339840b614fb17c1c6b10f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://622c4a5d0d1fcc12194896d920c89ff6f9af2ce07d3c1d3ce66d6c5b60030924",
+				"dweb:/ipfs/QmYUdTGRu7sEkYheU5YkcE4hwMZbfAAfwYw59U8evJceRe"
+			]
+		}
+	},
+	"version": 1
+}
