@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidy101/modifyExtend.sol": "A"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidy101/modifyExtend.sol": {
+			"keccak256": "0xe41ebc56d171a432c32df105da8e625f35a967ac9b048f6a0e66c6e1f632ba6b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e92eac1f482a11132b8df341c8709aca1db1c53a831994b02e06cce6fcbdbf47",
+				"dweb:/ipfs/Qma3DFwiVghptdxgmV6ah9LSMiTWoSnUbaPbHE3nF1Dpdc"
+			]
+		}
+	},
+	"version": 1
+}
